@@ -1,9 +1,9 @@
-a=int(input())
-b=int(input())
-c=int(input())
-if a>b and a>c:
-    print(a)
-elif b>c:
-    print(b)
+k=int(input())
+l=int(input())
+m=int(input())
+if k>l and k>m:
+    print(k)
+elif l>m:
+    print(l)
 else:
-    print(c)
+    print(m)
